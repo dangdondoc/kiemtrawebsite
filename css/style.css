@@ -1,0 +1,9 @@
+.bg-hero {
+  background-image: url(/img/bg-hero.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.bg_color{
+  background: #00000085;
+}

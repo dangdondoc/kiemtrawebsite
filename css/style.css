@@ -4,6 +4,24 @@
   background-position: center;
 }
 
-.bg_color{
+.bg_color {
   background: #00000085;
+}
+.bg_gradient {
+  background: linear-gradient(
+    125deg,
+    rgba(16, 17, 21, 1) 0%,
+    rgba(54, 35, 69, 1) 57%,
+    rgba(86, 33, 37, 1) 100%
+  );
+}
+
+.vandongvien {
+  position: relative;
+}
+
+.anhvandongvien {
+  position: absolute;
+  top: 50px;
+  right: 15px;
 }
